@@ -3,8 +3,8 @@
 A full-stack task manager built for the **Syntecxhub Web Development Internship (Task 3, Project 1)**.
 Users create an account, sign in with JWT, and manage their own tasks: add, edit, delete, mark done, filter by status or priority, and search.
 
-**Live app:** _add your frontend URL here_
-**Live API:** _add your backend URL here_
+**Live app:** https://syntecxhub-task-manager-app-mkm3.vercel.app
+**Live API:** https://syntecxhub-task-manager-app-xi.vercel.app
 
 ## Features
 
